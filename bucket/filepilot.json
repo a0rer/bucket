@@ -1,0 +1,9 @@
+{
+    "version": "0.8.1",
+    "description": "Next-gen file explorer.", 
+    "homepage": "https://filepilot.tech/",
+    "license": "Unknown",
+    "url": "https://filepilot.tech/download/latest#/FPilot.exe", 
+    "hash": null,
+    "bin": "FPilot.exe"
+}
