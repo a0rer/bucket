@@ -3,9 +3,9 @@
 	"description": "Screen annotation and drawing tool for presentations, teaching, and collaboration",
 	"homepage": "https://epicpen.com/",
 	"license": "Freeware",
-	"url": "https://distribution.epicpencdn.com/win",
+	"url": "https://distribution.epicpencdn.com/win#/epicpen.exe",
 	"hash": "afa0c1080feeda35230818757691d6c3bca18ed89cea1350249c18248fe17b79",
 	"installer": {
-		"args": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
+		"args": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /DIR=$dir"
 	}
 }

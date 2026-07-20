@@ -3,8 +3,9 @@
 	"description": "Free Android emulator for PC to play mobile games",
 	"homepage": "https://www.mumuplayer.com/",
 	"license": "Freeware",
-	"url": "https://api.mumuplayer.com/api/dl/win?channel=gw-win-download",
+	"url": "https://api.mumuplayer.com/api/dl/win?channel=gw-win-download#/MuMuPlayer.exe",
 	"hash": "4e30c1e0a97f730266f5239c34be63d5327774b0085c4d8f865c85d7fdc3816a",
+	"notes": "Stub installer that downloads the full emulator (~1.5 GB). Installs to C:\\Program Files (ignores /D). Run scoop as admin or the installer will prompt for elevation.",
 	"installer": {
 		"args": "/S"
 	}
