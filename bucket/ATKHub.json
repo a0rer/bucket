@@ -1,11 +1,12 @@
 {
-	"version": "2.3.75",
-	"description": "All-in-one software for ATK gaming devices (mouse, keyboard, headset)",
-	"homepage": "https://www.atk.store/pages/atk-hub",
+	"version": "3.2.14",
+	"description": "ATK HUB - All-in-one driver and configuration software for ATK gaming devices (mouse, keyboard, headset)",
+	"homepage": "https://desktop.atkgear.com/",
 	"license": "Freeware",
-	"url": "https://bpcdn.atkgear.com/device/download/win32/2.3.75/atk-v-device-2.3.75.exe",
-	"hash": "46419e26a5c76cfd2a214fd11cbe82b241b25b7fff3c78a8d1da8bf46126951a",
+	"url": "https://dl-global.atk.io/ATK-hub/atk-hub-3.2.14.exe",
+	"hash": "a55fa446f7613cc44b362d087cb409110458038fa4adb41f9047797eba515a94",
+	"bin": "ATK HUB.exe",
 	"installer": {
-		"args": "/S"
+		"args": "/S /D=$dir"
 	}
 }
