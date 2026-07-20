@@ -5,4 +5,7 @@
 	"license": "Freeware",
 	"url": "https://downloads.affinity.studio/Affinity%20x64.msix",
 	"hash": "d3baa74d30b7b41655651e6ea58a505a1bafeb33ec7576d52e625c147bae164c",
+	"installer": {
+		"script": "Add-AppxPackage -Path \"$dir\\Affinity x64.msix\""
+	}
 }

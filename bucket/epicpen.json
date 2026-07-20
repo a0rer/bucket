@@ -4,5 +4,8 @@
 	"homepage": "https://epicpen.com/",
 	"license": "Freeware",
 	"url": "https://distribution.epicpencdn.com/win",
-	"hash": "afa0c1080feeda35230818757691d6c3bca18ed89cea1350249c18248fe17b79"
+	"hash": "afa0c1080feeda35230818757691d6c3bca18ed89cea1350249c18248fe17b79",
+	"installer": {
+		"args": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
+	}
 }

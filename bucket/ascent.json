@@ -4,5 +4,8 @@
 	"homepage": "https://www.tryascent.gg/",
 	"license": "Freeware",
 	"url": "https://www.tryascent.gg/api/download",
-	"hash": "f54ef543b76dfa74528b4b726d1c68ca38f079c56d01b49f7188ec4d9f00459b"
+	"hash": "f54ef543b76dfa74528b4b726d1c68ca38f079c56d01b49f7188ec4d9f00459b",
+	"installer": {
+		"args": "/S"
+	}
 }

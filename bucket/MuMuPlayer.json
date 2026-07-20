@@ -4,5 +4,8 @@
 	"homepage": "https://www.mumuplayer.com/",
 	"license": "Freeware",
 	"url": "https://api.mumuplayer.com/api/dl/win?channel=gw-win-download",
-	"hash": "4e30c1e0a97f730266f5239c34be63d5327774b0085c4d8f865c85d7fdc3816a"
+	"hash": "4e30c1e0a97f730266f5239c34be63d5327774b0085c4d8f865c85d7fdc3816a",
+	"installer": {
+		"args": "/S"
+	}
 }

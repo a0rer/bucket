@@ -4,5 +4,8 @@
 	"homepage": "https://www.logitechg.com/en-us/software/ghub",
 	"license": "Freeware",
 	"url": "https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.exe",
-	"hash": "4b2f9903b27c8434afcd52fe65845632fcae47cc50432fb6b3b1637144e811e1"
+	"hash": "4b2f9903b27c8434afcd52fe65845632fcae47cc50432fb6b3b1637144e811e1",
+	"installer": {
+		"args": "/S"
+	}
 }
