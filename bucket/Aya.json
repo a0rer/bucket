@@ -1,0 +1,16 @@
+{
+	"version": "1.14.2",
+	"description": "Android ADB desktop app — manage Android devices via ADB GUI",
+	"homepage": "https://aya.liriliri.io/",
+	"license": "AGPL-3.0",
+	"url": "https://github.com/liriliri/aya/releases/download/v1.14.2/AYA-1.14.2-win-x64.exe#/AYA.exe",
+	"hash": "e2f580ba4645a3593e8f055a894ae4633e3af8008b3755ee202a8e139b0c7a15",
+	"bin": "AYA.exe",
+	"shortcuts": [["AYA.exe", "AYA"]],
+	"checkver": {
+		"github": "https://github.com/liriliri/aya"
+	},
+	"autoupdate": {
+		"url": "https://github.com/liriliri/aya/releases/download/v$version/AYA-$version-win-x64.exe#/AYA.exe"
+	}
+}
