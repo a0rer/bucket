@@ -5,6 +5,8 @@
 	"license": "Freeware",
 	"url": "https://distribution.epicpencdn.com/win#/epicpen.exe",
 	"hash": "afa0c1080feeda35230818757691d6c3bca18ed89cea1350249c18248fe17b79",
+	"bin": "EpicPen.exe",
+	"shortcuts": [["EpicPen.exe", "EpicPEN"]],
 	"installer": {
 		"args": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /DIR=$dir"
 	}

@@ -6,6 +6,7 @@
 	"url": "https://dl-global.atk.io/ATK-hub/atk-hub-3.2.14.exe",
 	"hash": "a55fa446f7613cc44b362d087cb409110458038fa4adb41f9047797eba515a94",
 	"bin": "ATK HUB.exe",
+	"shortcuts": [["ATK HUB.exe", "ATK HUB"]],
 	"installer": {
 		"args": "/S /D=$dir"
 	}

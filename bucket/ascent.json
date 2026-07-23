@@ -5,6 +5,7 @@
 	"license": "Freeware",
 	"url": "https://www.tryascent.gg/api/download#/ascent.exe",
 	"hash": "f54ef543b76dfa74528b4b726d1c68ca38f079c56d01b49f7188ec4d9f00459b",
+	"shortcuts": [["Ascent.exe", "Ascent"]],
 	"installer": {
 		"script": "Start-Process -FilePath \"$dir\\ascent.exe\" -ArgumentList \"/S /D=$dir\" -Wait -Verb RunAs"
 	}
