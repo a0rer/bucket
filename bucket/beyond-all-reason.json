@@ -1,0 +1,12 @@
+{
+	"version": "1.2988.0",
+	"description": "Beyond All Reason (BAR) - free-to-play real-time strategy RTS game (launcher)",
+	"homepage": "https://www.beyondallreason.info/",
+	"license": "Freeware",
+	"url": "https://github.com/beyond-all-reason/BYAR-Chobby/releases/download/v1.2988.0/Beyond-All-Reason-1.2988.0.exe",
+	"hash": "0d0bb26c1d32b64c60716b6363db81b4bb843186bfdc95c1c7b33b45f752a949",
+	"notes": "Stub launcher that downloads the full game assets (~4+ GB) on first run. Installs system-wide or per-user depending on choice (the installer ignores /D). Run scoop as admin if you want a system install.",
+	"installer": {
+		"args": "/S"
+	}
+}
