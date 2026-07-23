@@ -1,0 +1,10 @@
+{
+	"version": "3.9.1",
+	"description": "Free and open-source autoclicker for Windows",
+	"homepage": "https://github.com/Blur009/Blur-AutoClicker",
+	"license": "GPL-3.0",
+	"url": "https://github.com/Blur009/Blur-AutoClicker/releases/download/v3.9.1/BlurAutoClicker-v3.9.1-portable.zip",
+	"hash": "779c08fdce9faf0ca9d89c69bf2bed2439aa18ca55ab0159e2d10d24e2d21789",
+	"bin": "BlurAutoClicker.exe",
+	"shortcuts": [["BlurAutoClicker.exe", "Blur AutoClicker"]]
+}
